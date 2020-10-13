@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46c9aa57-a735-48a8-97f2-ee4b282714f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/TicTacToe/TicTacToe/Assets/scriptes/GamePlayController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/TicTacToe/TicTacToe/Assets/scriptes/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/TicTacToe/TicTacToe/Assets/scriptes/Turn.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/TicTacToe/TicTacToe/Assets/scriptes/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/TicTacToe/TicTacToe/Assets/scriptes/ButtonScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/TicTacToe/TicTacToe/Assets/scriptes/CellClass.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scryptes/GamePlayController.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CellClass.cs" />
+        <option value="$PROJECT_DIR$/Turn.cs" />
+        <option value="$USER_HOME$/Downloads/TicTacToe/TicTacToe/Assets/scriptes/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Player.cs" />
+        <option value="$PROJECT_DIR$/ButtonScript.cs" />
+        <option value="$PROJECT_DIR$/Enemy.cs" />
+        <option value="$PROJECT_DIR$/GamePlayController.cs" />
+        <option value="$USER_HOME$/Downloads/TicTacToe/TicTacToe/Assets/scriptes/GamePlayController.cs" />
+        <option value="$PROJECT_DIR$/Scryptes/GamePlayController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iYFMhBBFRbSZXZYJW1GWABiujn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c9aa57-a735-48a8-97f2-ee4b282714f5" name="Default Changelist" comment="" />
+      <created>1602076577758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602076577758</updated>
+      <workItem from="1602076593526" duration="6741000" />
+      <workItem from="1602172627736" duration="457000" />
+      <workItem from="1602173121843" duration="95000" />
+      <workItem from="1602173247592" duration="41000" />
+      <workItem from="1602173466136" duration="5489000" />
+      <workItem from="1602244267868" duration="3119000" />
+      <workItem from="1602247448854" duration="13906000" />
+      <workItem from="1602491481191" duration="39000" />
+      <workItem from="1602491566158" duration="11114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
